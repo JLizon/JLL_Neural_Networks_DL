@@ -1,3 +1,4 @@
 # Template for Machine Learning projects
 
-![image](https://www.tensorflow.org/static/neural_structured_learning/images/nsl_overview.png?hl=es-419)
+![image](https://github.com/JLizon/JLL_Neural_Networks_DL/assets/141152400/28ac7ecc-04bb-47f7-a5c6-8a2cedaccf2b)
+
