@@ -8,18 +8,18 @@
 The project aims to develop a model capable of distinguishing between images of dogs and cats with high precision. This is achieved by training a Convolutional Neural Network (CNN) on a dataset of labeled images. The model is then used to classify new, unseen images into one of the two categories.
 
 ### Requirements
-Python 3.x
-TensorFlow
-Keras
-NumPy
-Scikit-learn
-Pillow
-OpenCV
-Project Structure
-data/: Contains the dataset of dog and cat images.
-models/: Stores the trained neural network models.
-src/: Jupyter notebooks for exploratory data analysis and model development.
-README.md: This file, providing an overview and instructions for using the project.
+-Python 3.x
+-TensorFlow
+-Keras
+-NumPy
+-Scikit-learn
+-Pillow
+-OpenCV
+-Project Structure
+*data/: Contains the dataset of dog and cat images.
+*models/: Stores the trained neural network models.
+*src/: Jupyter notebooks for exploratory data analysis and model development.
+*README.md: This file, providing an overview and instructions for using the project.
 
 ### Getting Started
 Clone the repository.
